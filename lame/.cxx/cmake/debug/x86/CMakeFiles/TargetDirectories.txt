@@ -1,3 +1,0 @@
-D:/Users/Acheronsheol/Documents/AndroidLame/lame/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
-D:/Users/Acheronsheol/Documents/AndroidLame/lame/.cxx/cmake/debug/x86/CMakeFiles/mp3lame.dir
-D:/Users/Acheronsheol/Documents/AndroidLame/lame/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
