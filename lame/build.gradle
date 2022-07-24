@@ -12,7 +12,7 @@ android {
         externalNativeBuild {
             cmake {
                 cFlags '-DSTDC_HEADERS'
-                arguments '-DANDROID_TOOLCHAIN=clang', '-DANDROID_STL=gnustl_static'
+                arguments '-DANDROID_TOOLCHAIN=clang', '-DANDROID_STL=c++_static'
             }
         }
     }
